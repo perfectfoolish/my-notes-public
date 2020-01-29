@@ -1,3 +1,4 @@
 .vscode/
 _book/
 gh-pages
+node_modules/

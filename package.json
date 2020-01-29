@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/perfectfoolish/my-notes-public/issues"
   },
-  "homepage": "https://github.com/perfectfoolish/my-notes-public#readme"
+  "homepage": "https://github.com/perfectfoolish/my-notes-public#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
